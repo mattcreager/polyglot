@@ -28,7 +28,7 @@ Audacity is really simple to use, here are a few tips that will improve the qual
 
 ![Audacity select mono](./audacity_mono.gif)
 
-#### 2. 'Click to Start Monitoring', speak at a normal level and make sure your levels are green
+#### 2. 'Click to Start Monitoring', speak at a normal level - green is good
 
 ![Audacity levels in the green](./audacity_levels.gif)
 
