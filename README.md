@@ -13,4 +13,5 @@ If you have questions or need help getting setup, please don't hesitate to conta
 ## Configuring Audacity
 Audacity is really simple to use, here are a few tips that will improve the quality of the recording:
 - 'Click to Start Monitoring', speak at a normal level and make sure your levels are green
-![./audacity_levels.gif]
+
+![Audacity levels in the green](./audacity_levels.gif)
