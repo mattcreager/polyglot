@@ -29,8 +29,8 @@ Audacity is really simple to use, here are a few tips that will improve the qual
 
 #### Choose the appropriate recording device and **record in (Mono)**
 
-![Audacity select mono](./audacity_mono)
+![Audacity select mono](./audacity_mono.gif)
 
 #### Export `.aiff`
 
-![Audacity export selection](./audacity_export)
+![Audacity export selection](./audacity_export.gif)
