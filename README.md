@@ -3,8 +3,8 @@
 
 If you have questions or need help getting setup, please don't hesitate to contact us:
 
-- Matt Creager: Skype | creager@heroku.com
-- Peter Cho: Skype | pc@heroku.com
+- Matt Creager: creager@heroku.com
+- Peter Cho: pc@heroku.com
 
 ### Dependencies
 
