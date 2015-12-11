@@ -10,7 +10,7 @@ If you have questions or need help getting setup, please don't hesitate to conta
 
 - [The internet](https://45.media.tumblr.com/cd67ee315543aad3b9947b67ee49102f/tumblr_mq3o8iycut1qbhoheo1_500.gif) (preferably, fast & dependable)
 - [Audacity](http://audacityteam.org/)
-- USB headset and/or a microphone + Headphones (avoid ear-buds)
+- USB headset and/or a microphone + headphones (avoid ear-buds)
 - Peace & quiet.
 
 ### Before we record
