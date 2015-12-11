@@ -8,10 +8,11 @@ If you have questions or need help getting setup, please don't hesitate to conta
 
 ### Dependencies
 
-- [The internet](https://45.media.tumblr.com/cd67ee315543aad3b9947b67ee49102f/tumblr_mq3o8iycut1qbhoheo1_500.gif) (preferably, fast & dependable)
+- [The internet](https://45.media.tumblr.com/cd67ee315543aad3b9947b67ee49102f/tumblr_mq3o8iycut1qbhoheo1_500.gif) (preferably fast & dependable)
 - [Audacity](http://audacityteam.org/)
-- USB headset and/or a microphone + headphones (avoid ear-buds)
-- Peace & quiet.
+- USB headset and/or a microphone + headphones (ear-buds are evil)
+- A quiet corner
+- Opinions
 
 ### Before we record
 
